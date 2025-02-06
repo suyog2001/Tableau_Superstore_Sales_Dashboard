@@ -14,7 +14,7 @@ This Tableau dashboard analyzes Superstore’s sales data, helping businesses un
 - `Superstore_Sales_Dashboard.twbx` - Tableau Workbook
 - `Sample - Superstore.csv` - Sales dataset
 - `Tableau_Assignment_1.pdf` - Full project report
-- `images/` - Screenshots of the dashboard
+- `Assignment_1.png` - Screenshots of the dashboard
 
 ## 🚀 How to View the Dashboard
 1. Download the `Superstore_Sales_Dashboard.twbx` file.
